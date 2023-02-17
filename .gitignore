@@ -1,0 +1,5 @@
+/venv/
+/temp/
+.idea
+env.py
+/test/
